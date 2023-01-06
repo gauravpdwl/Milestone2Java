@@ -14,3 +14,4 @@ public class SumOfNNaturalNoRecursion {
 		System.out.println(nsum(1));
 	}
 }
+
