@@ -1,4 +1,4 @@
-package Milestone2JavaCodes;
+package arrayRecursion;
 
 import java.util.Scanner;
 public class SumOfArrayUsingRecursion {
