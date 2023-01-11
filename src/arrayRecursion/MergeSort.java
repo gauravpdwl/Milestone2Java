@@ -50,7 +50,7 @@ public class MergeSort {
 		}
 		
 		public static void sort(int input[],int a[], int b[]) {
-			
+				
 			int i=0;
 			int j=0;
 			int k=0;
