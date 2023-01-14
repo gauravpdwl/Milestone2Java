@@ -6,7 +6,7 @@ public class Test {
 //**************************************************************
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		int a[]= {8,7,1,6,5,4,3,2,1,0};
+		int a[]= {8,6,9,7,5,2,3,4,1,0};
 		int pivotele=a[4];
 		int i=1;
 		int temp=0;

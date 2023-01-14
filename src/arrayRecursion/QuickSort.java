@@ -73,7 +73,16 @@ public class QuickSort {
 					j--;
 				}
 			}
-			
+			//just for visibility
+			//input
+			//10
+			//8 6 9 7 5 2 3 4 1 0
+			for(int k=0;k<a.length;k++) {
+				System.out.print(a[k]+" ");
+			}
+			System.out.println();
+			System.out.println("------------------------");
+			//end
 			
 			return si+smallercount;
 		}
