@@ -3,22 +3,21 @@ package objectorientedprogramming;
 class Test{
     public static void main(String[] args) 
     { 
-        T object = new T(); 
-    } 
+        Solution s=new Solution();
+        s.name="Padwal";
+        s.print();
+        
+    }
+    
 }
 
-class T{
-	int a; 
-    int b; 
-    T() 
-    {   
-        this(10, 20);   
-        System.out.print("constructor one "); 
-    } 
-    T(int a, int b) 
-    { 
-        this.a = a; 
-        this.b = b; 
-        System.out.print("constructor two "); 
-    } 
+
+class Solution{
+	String name="Gaurav";
+	
+	public void print() {
+		System.out.println("Your entered name is - "+name);
+	}
 }
+
+
