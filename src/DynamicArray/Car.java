@@ -1,4 +1,4 @@
-package LinkedList;
+package DynamicArray;
 
 public class Car extends Vehicle {
 	String name;

@@ -3,15 +3,15 @@ package LinkedListPackage;
 import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
-
-class LinkedListNode<T> {
-    T data;
-    LinkedListNode<T> next;
-    
-    public LinkedListNode(T data) {
-        this.data = data;
-    }
-}
+//
+//class LinkedListNode<T> {
+//    T data;
+//    LinkedListNode<T> next;
+//    
+//    public LinkedListNode(T data) {
+//        this.data = data;
+//    }
+//}
 
 public class Runner {
     
